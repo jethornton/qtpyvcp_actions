@@ -1,0 +1,6 @@
+[gui_scripts]
+actions = actions:main
+
+[qtpyvcp.vcp]
+actions = actions
+

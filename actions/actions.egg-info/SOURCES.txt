@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+actions/__init__.py
+actions/__init__.py.bak
+actions/config.yml
+actions/config.yml.bak
+actions/mainwindow.py
+actions.egg-info/PKG-INFO
+actions.egg-info/SOURCES.txt
+actions.egg-info/dependency_links.txt
+actions.egg-info/entry_points.txt
+actions.egg-info/top_level.txt
+actions/resources/resources.qrc
+actions/ui/mainwindow.ui
+actions/ui/style.qss
